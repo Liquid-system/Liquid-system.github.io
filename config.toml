@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://liquid-system.github.io"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -28,7 +28,7 @@ paginate = 20
 
 # ページのテーマカラー
 [Params.style.vars]
-  highlightColor = "#e22d30"
+  highlightColor = "#1496D3"
 
 # SNS等のユーザー名
 [Params.widgets.social]
